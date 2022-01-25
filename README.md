@@ -1,16 +1,19 @@
 ### Hola 👋
 
+Bienvenido a mi perfil en GitHub. Mi nombre es Katherine y soy egresada de Analista Programador Computacional.
 
-Bienvenido a mi perfil en GitHun. Mi nombre es Katherine y soy Analista Programador Computacional.
+Repositorios 
 
-Here are some ideas to get you started:
+Aqui encontraras una gran variedad de proyectos realizados durante el transcurso de mis estudios de Analista Programador Computacional.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Estudios 
+
+Me encuentro en el  5to semestre y ultimo de analista programador computacional. 
+
+
+Lenguaje de programación
+
+Cursos 
+
+
 
