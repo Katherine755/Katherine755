@@ -1,4 +1,4 @@
-![7341 jpg_860](https://user-images.githubusercontent.com/80713091/151052414-50a47ba1-7a90-43ce-b7b1-c738557c4936.jpg)
+![informatica](https://user-images.githubusercontent.com/80713091/151052703-0f0e1d47-587d-425a-a071-5d24f45a9cc5.jpg)
 
 ### Hola 👋
 
