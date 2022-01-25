@@ -14,7 +14,7 @@ Me encuentro en el  5to semestre y ultimo de año analista programador computaci
 Lenguaje de programación :floppy_disk:
 
 - [:white_check_mark:]  Python en vs Code, orientada a objetos
-- [x]  BD Oracle
+- [x, :white_check_mark:]  BD Oracle
 - [x]  Django, Booststrap en vs code
 - [x] HTML, CSS y JScript
 - [x]  Ionic, Angular  con Android Studio 
