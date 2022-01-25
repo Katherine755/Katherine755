@@ -1,6 +1,8 @@
+![7341 jpg_860](https://user-images.githubusercontent.com/80713091/151052414-50a47ba1-7a90-43ce-b7b1-c738557c4936.jpg)
+
 ### Hola 👋
 
-Bienvenido a mi perfil en GitHub. Mi nombre es Katherine y soy egresada de Analista Programador Computacional.
+Bienvenido a mi perfil en GitHub. Mi nombre es Katherine, soy egresada de Analista Programador Computacional.
 
 Repositorios 
 
