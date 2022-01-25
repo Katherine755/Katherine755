@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hola 👋
 
-<!--
-**Katherine755/Katherine755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Bienvenido a mi perfil en GitHun. Mi nombre es Katherine y soy Analista Programador Computacional.
 
 Here are some ideas to get you started:
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
