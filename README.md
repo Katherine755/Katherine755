@@ -13,11 +13,11 @@ Me encuentro en el  5to semestre y ultimo de año analista programador computaci
 
 Lenguaje de programación :floppy_disk:
 
-:white_check_mark: Python en vs Code, orientada a objetos 
-:white_check_mark: BD Oracle 
-:white_check_mark: Django, Booststrap en vs code 
-:white_check_mark: HTML, CSS y JScript
-:white_check_mark: Ionic, Angular  con Android Studio 
+:white_check_mark: Python en vs Code, orientada a objetos, 
+:white_check_mark: BD Oracle, 
+:white_check_mark: Django, Booststrap en vs code,
+:white_check_mark: HTML, CSS y JScript,
+:white_check_mark: Ionic, Angular  con Android Studio, 
 
 
 
